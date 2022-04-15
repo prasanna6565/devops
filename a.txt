@@ -1,6 +1,0 @@
-<html>
-<title> pm </title>
-<head> prime number </head>
-<body>
-</body>
-</html>
